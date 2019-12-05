@@ -1,0 +1,6 @@
+Sid,145,happy,green
+Lusy,100,bored,purple
+Bob,120,sad,blue
+Hail,137,angry,red
+Gail,107,ok,none
+Trish,880,happy,pink

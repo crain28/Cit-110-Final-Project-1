@@ -1,0 +1,6 @@
+E:\CIT110\Capstone_Project\Capstone_Project\bin\Debug\Capstone_Project.exe.config
+E:\CIT110\Capstone_Project\Capstone_Project\bin\Debug\Capstone_Project.exe
+E:\CIT110\Capstone_Project\Capstone_Project\bin\Debug\Capstone_Project.pdb
+E:\CIT110\Capstone_Project\Capstone_Project\obj\Debug\Capstone_Project.csprojAssemblyReference.cache
+E:\CIT110\Capstone_Project\Capstone_Project\obj\Debug\Capstone_Project.exe
+E:\CIT110\Capstone_Project\Capstone_Project\obj\Debug\Capstone_Project.pdb
